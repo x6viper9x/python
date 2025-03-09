@@ -6,7 +6,7 @@
 <class 'int'>
 >>> type(12.5)
 <class 'float'>
->>> type('mamad')
+>>> type('ali')
 <class 'str'>
 >>> type(False)
 <class 'bool'>
